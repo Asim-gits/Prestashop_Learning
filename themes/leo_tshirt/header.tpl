@@ -147,7 +147,7 @@
 			{/if} 
 			
 			{if isset($HOOK_SLIDESHOW)&& !empty($HOOK_SLIDESHOW) && in_array($page_name,array('index'))}
-				<div id="slideshow" class="clearfix"> 
+				<div id="slideshow asim" class="clearfix"> 
 					<div class="container">
 						<div class="row">
 							{$HOOK_SLIDESHOW}	
