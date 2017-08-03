@@ -1,4 +1,4 @@
-<?php /* Smarty version Smarty-3.1.19, created on 2017-07-12 08:19:48
+<?php /* Smarty version Smarty-3.1.19, created on 2017-07-20 01:11:44
          compiled from "D:\wamp64\www\ps\themes\leo_tshirt\header.tpl" */ ?>
 <?php /*%%SmartyHeaderCode:16343596613e4be48c4-51307712%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
@@ -7,7 +7,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
     '43454f26bba07f3955095645629268410e43fb5d' => 
     array (
       0 => 'D:\\wamp64\\www\\ps\\themes\\leo_tshirt\\header.tpl',
-      1 => 1468838110,
+      1 => 1500527413,
       2 => 'file',
     ),
   ),
@@ -15,6 +15,8 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   'function' => 
   array (
   ),
+  'version' => 'Smarty-3.1.19',
+  'unifunc' => 'content_596613e51d2e74_33537077',
   'variables' => 
   array (
     'language_code' => 0,
@@ -69,8 +71,6 @@ $_valid = $_smarty_tpl->decodeProperties(array (
     'LEO_LAYOUT_DIRECTION' => 0,
   ),
   'has_nocache_code' => false,
-  'version' => 'Smarty-3.1.19',
-  'unifunc' => 'content_596613e51d2e74_33537077',
 ),false); /*/%%SmartyHeaderCode%%*/?>
 <?php if ($_valid && !is_callable('content_596613e51d2e74_33537077')) {function content_596613e51d2e74_33537077($_smarty_tpl) {?><?php if (!is_callable('smarty_function_implode')) include 'D:\\wamp64\\www\\ps\\tools\\smarty\\plugins\\function.implode.php';
 ?>
@@ -280,7 +280,7 @@ if (!empty($_capture_buffer)) {
 			<?php }?> 
 			
 			<?php if (isset($_smarty_tpl->tpl_vars['HOOK_SLIDESHOW']->value)&&!empty($_smarty_tpl->tpl_vars['HOOK_SLIDESHOW']->value)&&in_array($_smarty_tpl->tpl_vars['page_name']->value,array('index'))) {?>
-				<div id="slideshow" class="clearfix"> 
+				<div id="slideshow asim" class="clearfix"> 
 					<div class="container">
 						<div class="row">
 							<?php echo $_smarty_tpl->tpl_vars['HOOK_SLIDESHOW']->value;?>
