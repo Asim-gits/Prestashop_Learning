@@ -6,12 +6,20 @@
     <language>en</language>
      <atom:link href="https://www.prestashop.com/en/blog/feed.xml" rel="self" type="application/rss+xml" />
       <item>
+    <title>Focus on Italian e-commerce</title>
+    <link>https://www.prestashop.com/en/blog/tendances-e-commerce/zoom-in-on-italian-e-commerce</link>
+    <description>Italy’s e-commerce growth rate in sales reached 18% in 2016, its customer base of e-shoppers has now reached 18 million people, and the average basket is growing: Itali</description>
+     <pubDate>Thu, 20 Jul 2017 17:37:04 +0200</pubDate>
+ <dc:creator>vMartelli</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/en/blog/tendances-e-commerce/zoom-in-on-italian-e-commerce</guid>
+  </item>
+  <item>
     <title>Meet Nicolas, Ambassador of the month | July 2017</title>
-    <link>https://www.prestashop.com/en/blog/prestashop-ambassadors/clone-of-rencontrez-nicolas-ambassadeur-du-mois-juillet-2017</link>
+    <link>https://www.prestashop.com/en/blog/prestashop-ambassadors/meet-nicolas-ambassador-month-july-2017</link>
     <description>CreaNico is our Ambassador in Montpellier, France, and is very active in the region.</description>
      <pubDate>Tue, 18 Jul 2017 17:30:36 +0200</pubDate>
  <dc:creator>Manon Plommet</dc:creator>
- <guid isPermaLink="false">https://www.prestashop.com/en/blog/prestashop-ambassadors/clone-of-rencontrez-nicolas-ambassadeur-du-mois-juillet-2017</guid>
+ <guid isPermaLink="false">https://www.prestashop.com/en/blog/prestashop-ambassadors/meet-nicolas-ambassador-month-july-2017</guid>
   </item>
   <item>
     <title>Back to school, Black Friday, Christmas: Download your end-of-year e-commerce guide</title>
@@ -78,14 +86,6 @@ The challenge is on…starting now!
      <pubDate>Fri, 09 Jun 2017 13:37:19 +0200</pubDate>
  <dc:creator>Cécile Dubouis</dc:creator>
  <guid isPermaLink="false">https://www.prestashop.com/en/blog/uncategorized/how-do-i-create-a-marketplace-on-prestashop</guid>
-  </item>
-  <item>
-    <title>10 years - 10 “portrait” interviews: Xavier Borderie, standard-bearer for Open Source</title>
-    <link>https://www.prestashop.com/en/blog/prestashop-news/10-years-10-portrait-interviews-xavier-borderie-standard-bearer-for-open-source</link>
-    <description>The pitch / Xavier Borderie has been with PrestaShop since 2011, having started out by putting together documentation for the community.</description>
-     <pubDate>Thu, 08 Jun 2017 18:01:49 +0200</pubDate>
- <dc:creator>Mpierrot</dc:creator>
- <guid isPermaLink="false">https://www.prestashop.com/en/blog/prestashop-news/10-years-10-portrait-interviews-xavier-borderie-standard-bearer-for-open-source</guid>
   </item>
   </channel>
 </rss>

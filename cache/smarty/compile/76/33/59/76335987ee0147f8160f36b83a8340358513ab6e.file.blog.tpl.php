@@ -1,4 +1,4 @@
-<?php /* Smarty version Smarty-3.1.19, created on 2017-07-12 08:51:21
+<?php /* Smarty version Smarty-3.1.19, created on 2017-08-03 04:39:50
          compiled from "D:\wamp64\www\ps\modules\leoblog\views\templates\front\default\blog.tpl" */ ?>
 <?php /*%%SmartyHeaderCode:1866559661b494d6fd5-14343695%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
@@ -7,7 +7,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
     '76335987ee0147f8160f36b83a8340358513ab6e' => 
     array (
       0 => 'D:\\wamp64\\www\\ps\\modules\\leoblog\\views\\templates\\front\\default\\blog.tpl',
-      1 => 1499862947,
+      1 => 1501749586,
       2 => 'file',
     ),
   ),
@@ -15,6 +15,8 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   'function' => 
   array (
   ),
+  'version' => 'Smarty-3.1.19',
+  'unifunc' => 'content_59661b49940999_60182099',
   'variables' => 
   array (
     'error' => 0,
@@ -31,8 +33,6 @@ $_valid = $_smarty_tpl->decodeProperties(array (
     'productrelated' => 0,
   ),
   'has_nocache_code' => false,
-  'version' => 'Smarty-3.1.19',
-  'unifunc' => 'content_59661b49940999_60182099',
 ),false); /*/%%SmartyHeaderCode%%*/?>
 <?php if ($_valid && !is_callable('content_59661b49940999_60182099')) {function content_59661b49940999_60182099($_smarty_tpl) {?><?php if (!is_callable('smarty_modifier_date_format')) include 'D:\\wamp64\\www\\ps\\tools\\smarty\\plugins\\modifier.date_format.php';
 ?>
